@@ -1,8 +1,5 @@
 ## Hey 👋, I'm Sean Ridgeon!  
   
-
-
-
 ### Glad to see you here!  
 As a self-motivated and forward-thinking professional with a solid foundation in Applied Computer Science, I bring a wealth of knowledge and hands-on experience gained through independent study and three years at the University of Leeds. My passion for UX Design, coding, and software development has driven me to actively pursue opportunities for growth and improvement, fostering a deep understanding of resilience and innovative problem-solving in the face of complex challenges. 
 
