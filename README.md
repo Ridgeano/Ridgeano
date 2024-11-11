@@ -40,7 +40,7 @@ Recently, I graduated from a comprehensive coding traineeship as a full-stack de
 
 
 ## Github Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ridgeano&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ridgeano&show_icons=true&theme=github_dark)
 
 <br/>  
 
