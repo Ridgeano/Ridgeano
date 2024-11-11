@@ -3,9 +3,6 @@
 ### Glad to see you here!  
 As a self-motivated and forward-thinking professional with a solid foundation in Applied Computer Science, I bring a wealth of knowledge and hands-on experience gained through independent study and three years at the University of Leeds. My passion for UX Design, coding, and software development has driven me to actively pursue opportunities for growth and improvement, fostering a deep understanding of resilience and innovative problem-solving in the face of complex challenges.   
 
-<br/>  
-
-
 ## Languages and Tools  
 <div align-items="left">
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
